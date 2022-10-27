@@ -12,6 +12,7 @@ I took on this project as my first major step in becoming a software engineer si
 
     The page you arrive at should appear as:
     ![Screenshot of launched project website](assets/images/Project_1_Screen%20shot.png)
+    
 ## Credits
     TA - Jessica Guico - helping me delete the second repository I spawned inside my project.
 
