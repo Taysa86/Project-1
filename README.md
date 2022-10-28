@@ -11,7 +11,7 @@ I took on this project as my first major step in becoming a software engineer si
     To get to my project, please follow this link: https://taysa86.github.io/Project-1/
 
     The page you arrive at should appear as:
-    ![Screenshot of launched project website](./assets/images/screenshot.png)
+![Screenshot of launched project website](./assets/images/screenshot.png)
     
 ## Credits
     TA - Jessica Guico - helping me delete the second repository I spawned inside my project.
